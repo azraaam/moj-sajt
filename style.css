@@ -1,0 +1,99 @@
+body{
+	
+	background-image: url(wp2486418.jpeg);
+	background-attachment: scroll;
+	background-size: cover;
+	}
+.desno{
+	float: right;
+}
+
+}
+.omeni{ 
+	border-radius: 8px;
+	margin-top: 20px;
+	background-color: lightgrey;
+	padding: 15px;
+
+}
+.social{
+	border-radius: 8px;
+	margin-top: 25px;
+	background-color:white;
+
+}
+
+
+.uvod {
+
+}
+.search-bar{
+	float: right;
+	padding-top: 10px;
+	padding-right: 10px;
+}
+.naslov {
+	color: lightslategrey;
+	border-color: white;
+	bottom: 0.25%;
+	border-radius: 10px;
+	font-size: 50px;
+
+
+
+
+
+}
+.social{
+	padding: 20px;
+}
+.ikona {float: right;
+        border-radius: 7px}
+
+.opis {padding-left: 10px;
+	   padding-bottom: 10px;
+
+}
+.topnav{
+	background-color: lightslategrey;
+	overflow:  hidden;
+
+}
+.topnav a{
+	float: left;
+	color: black;
+	text-align: center;
+	padding: 10px 10px;
+	text-decoration: none;
+	font-size: 17px;
+
+}
+.topnav a:hover{
+	background-color: black;
+	color: lightslategrey;
+
+}
+.topnav a:active{
+	background-color: white;
+	color: lightslategrey;
+
+
+}
+
+
+}
+.podaci{
+	background-color: white;
+}
+.lista {color: lightgrey;}
+
+.tekstovi{
+	padding: 20px;
+	margin-top: 20px;
+	float: left;
+	background-color: white;
+	width: 950px;
+	height: 800px;
+	border-radius: 8px;
+	margin-left: 200;
+}
